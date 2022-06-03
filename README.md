@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/WLARA23/WLARA23/blob/main/Portada%20LinkedIn.png)
 <h1 align="center">Hello 👋, I'm Willy Lara Campos</h1>
 <h3 align="center">Full Stack Developer | UX & UI Designer | Graphic Designer</h3>
 
