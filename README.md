@@ -34,9 +34,6 @@ I am a proactive and creative Mid-level Full-Stack developer with strong experie
 - Power BI
 - Adobe Suite
 
-## Portfolio 📘
-https://www.willylara.com
-
 ## Connect with me
 - ✉️ Email: willylaracampos@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/willylaracampos/
