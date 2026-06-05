@@ -1,4 +1,4 @@
-![Banner](https://github.com/WLARA23/WLARA23/blob/main/Banner-GitHub.png)
+![Banner](https://github.com/WLARA23/WLARA23/blob/main/Updated_banner.png)
 <h1 align="center">Hello 👋, I'm Willy Lara Campos</h1>
 <h3 align="center">Mid Full-Stack Developer | UX/UI Designer</h3>
 I am a proactive and creative Mid-level Full-Stack developer with strong experience using React, Angular, PHP, SQL, and .NET Core, with a solid background in web development and a strong focus on building efficient, scalable digital solutions, backed by a Bachelor’s degree from the University of Costa Rica. Passionate about UX/UI design, combining technical expertise with visual and brand-focused design to deliver intuitive and engaging user experiences.
